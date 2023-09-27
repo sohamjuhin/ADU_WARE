@@ -2,7 +2,7 @@ const { execSync } = require('child_process');
 const readline = require('readline');
 
 const logo = `
-${SPY_WARE}
+${Beast}
 ╦ ┌─┐═ ─┐└─┐└┬┘
     With love!
     By: JUHINSOHAM
